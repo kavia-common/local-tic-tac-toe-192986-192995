@@ -1,0 +1,4 @@
+{
+    "command": "dotnet build",
+    "working_directory": "/tmp/kavia/workspace/code-generation/local-tic-tac-toe-192986-192995/tic_tac_toe_backend"
+}
